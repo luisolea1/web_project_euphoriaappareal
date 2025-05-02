@@ -14,7 +14,7 @@
   font-size: 40px;
   line-height: 1.2;
   text-align: center;
-  margin: 20px 20px 15px;
+  margin: 20px 20px 20px;
 }
 
 .main__artist{
@@ -52,7 +52,7 @@
     justify-content: center;
     max-width: 100%;
     grid-template-columns: 1fr;
-    margin: 30px 20px;
+    margin: 0 20px 20px;
 
   }
 
